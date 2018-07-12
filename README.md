@@ -13,6 +13,54 @@ Bonus points for:
 - What should you be looking to get out of a 1:1?
 - When should you meet more or less often, and why?
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Books](#books)
+  - [Starting List](#starting-list)
+  - [Reduced List](#reduced-list)
+- [Books Read](#books-read)
+- [2018-07-02 (Mon)](#2018-07-02-mon)
+  - [Winnowing: Deferred till EOD](#winnowing-deferred-till-eod)
+  - [Summarizing](#summarizing)
+    - [The Manager's Path](#the-managers-path)
+      - [Book Recommendations](#book-recommendations)
+    - [Effective Executive](#effective-executive)
+    - [Effective Engineer](#effective-engineer)
+      - [Book Recommendations](#book-recommendations-1)
+      - [Takeaways](#takeaways)
+    - [Crucial Conversations](#crucial-conversations)
+- [2018-07-03 (Tues)](#2018-07-03-tues)
+  - [Summarizing (Continued)](#summarizing-continued)
+    - [7 Habits of Highly Effective People](#7-habits-of-highly-effective-people)
+    - [How to Win Friends and Influence People](#how-to-win-friends-and-influence-people)
+    - [Mythical Man-Month](#mythical-man-month)
+    - [Being Geek](#being-geek)
+    - [5 Dysfunctions of a Team](#5-dysfunctions-of-a-team)
+    - [The Coaching Habit](#the-coaching-habit)
+      - [Book Recommendations](#book-recommendations-2)
+    - [Radical Candor](#radical-candor)
+      - [Book Recommendations](#book-recommendations-3)
+    - [Peopleware 3/e](#peopleware-3e)
+    - [Managing Humans 3/e](#managing-humans-3e)
+  - [Winnowing: For real](#winnowing-for-real)
+- [2018-07-04 (Wed)](#2018-07-04-wed)
+  - [Goals & Origins](#goals--origins)
+    - [Manager's Path](#managers-path)
+    - [Effective Executive](#effective-executive-1)
+    - [5 Dysfunctions](#5-dysfunctions)
+    - [Coaching Habit](#coaching-habit)
+    - [Radical Candor](#radical-candor-1)
+- [2018-07-05 (Thurs)](#2018-07-05-thurs)
+  - [The Coaching Habit](#the-coaching-habit-1)
+  - [The Manager's Path](#the-managers-path-1)
+    - [A Manager's Responsibilities](#a-managers-responsibilities)
+- [2018-07-06 (Fri)](#2018-07-06-fri)
+  - [Manager's Path Practices](#managers-path-practices)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Books
 ### Starting List
@@ -99,7 +147,7 @@ Conclusion underscores that one must first excel at self-management to excel at 
 
 Throughout the intro and outro there are mentions of mentors, coaches, and friends. Without these, it would be very hard to do a good job as a manager, it seems.
 
-Interesting book recommendations:
+##### Book Recommendations
 
 - _First, Break All the Rules_
 
@@ -136,13 +184,13 @@ The "Key Takeaways" box at the end of each chapter is handy.
 
 Skimmed the entire book; don't feel I need to delve further at this time.
 
-Interesting book recommendations:
+##### Book Recommendations
 
 - Kofman, _Conscious Business_ - communications
 - Rock, _Your Brain at Work_ - working with reality of brains
 - Halvorson, _Succeed_ - goal-setting tactics (optimistic or pessimistic? ends- or means-focused?)
 
-Other random notes:
+##### Takeaways
 
 - Growth mindset
 - Flow
@@ -230,7 +278,7 @@ Presents coaching as a key skill of management and leadership. Provides 7 questi
 
 Solid collection of annotated book recommendations at the end, as well as a section listing the research behind each of the questions (sans helpful annotations, alas).
 
-Interesting book recommendations:
+##### Book Recommendations
 
 - _Flawless Consulting_
 - _Scaling Up Excellence_
@@ -250,7 +298,7 @@ Would be interesting to see the course content for "Managing at Apple."
 
 Working title for a couple years was _Cruel Empathy._
 
-Interesting book recommendations:
+##### Book Recommendations
 
 - _Competing on the Edge_ (Shona Brown)
 
@@ -302,46 +350,46 @@ Mining for practices proved harder than expected. All too frequently, advice is 
 
 
 ### Goals & Origins
-- Manager's Path
-    - Origins:
-        - Distills advice from personal experience of four years at a fast-growing startup
-    - Goals:
-        - Help you focus on each level individually
-        - Address challenges of engineering management in particular, not general management
-        - Serve as a career-long reference manual for engineering managers
+#### Manager's Path
+- Origins:
+    - Distills advice from personal experience of four years at a fast-growing startup
+- Goals:
+    - Help you focus on each level individually
+    - Address challenges of engineering management in particular, not general management
+    - Serve as a career-long reference manual for engineering managers
 
-- Effective Executive
-    - Origins:
-        - *Not revealed in text*
-    - Goals:
-        - Teach you to be an effective executive, for your and society's own good
-            - Drucker sees most knowledge workers as (personal) executives, so increasing executive effectiveness is crucial for society to flourish in the Information Age.
+#### Effective Executive
+- Origins:
+    - *Not revealed in text*
+- Goals:
+    - Teach you to be an effective executive, for your and society's own good
+        - Drucker sees most knowledge workers as (personal) executives, so increasing executive effectiveness is crucial for society to flourish in the Information Age.
 
-- 5 Dysfunctions
-    - Origins:
-        - Grew from observing people effectively applying the lessons of _5 Temptations of the CEO_ to their teams
-    - Goals:
-        - Help your team achieve more together than apart
-            - (Honestly, the goals are mostly implicit. The author assumes you're on the same page and doesn't really state much about them explicitly.)
+#### 5 Dysfunctions
+- Origins:
+    - Grew from observing people effectively applying the lessons of _5 Temptations of the CEO_ to their teams
+- Goals:
+    - Help your team achieve more together than apart
+        - (Honestly, the goals are mostly implicit. The author assumes you're on the same page and doesn't really state much about them explicitly.)
 
-- Coaching Habit
-    - Origins:
-        - 5+ years of training managers in coaching
-            - training company founded: 2008
-            - started writing the book: 2012
-            - book published after two rewrites: 2016
-    - Goals:
-        - Instill the coaching habit so you can have more impact with less hard work
-        - Make coaching a viable leadership style by providing tools to make it rapidly effective and by countering misconceptions about how time-consuming it is
+#### Coaching Habit
+- Origins:
+    - 5+ years of training managers in coaching
+        - training company founded: 2008
+        - started writing the book: 2012
+        - book published after two rewrites: 2016
+- Goals:
+    - Instill the coaching habit so you can have more impact with less hard work
+    - Make coaching a viable leadership style by providing tools to make it rapidly effective and by countering misconceptions about how time-consuming it is
 
-- Radical Candor
-    - Origins:
-        - Over a decade of management experience, primarily at Google
-        - Management training experience at Apple University
-    - Goals:
-        - Reassure you that management is hard and you aren't alone (part 1)
-        - Give you the tools to manage better (part 2)
-        - Save the world from bad bosses
+#### Radical Candor
+- Origins:
+    - Over a decade of management experience, primarily at Google
+    - Management training experience at Apple University
+- Goals:
+    - Reassure you that management is hard and you aren't alone (part 1)
+    - Give you the tools to manage better (part 2)
+    - Save the world from bad bosses
 
 
 ## 2018-07-05 (Thurs)
@@ -401,6 +449,7 @@ Further, I hoped it would be easy to pick out concrete practices. I based this o
 All that means that I didn't get a ton of clear practices out of this. The best section for that was probably the one about how to hire managers, since that did get down to specific things they should be able to do and you can watch them do, like running a few 1:1s. The section on the diversity of approaches in 1:1s was also freeing and eye-opening. (Unfortunately, there was nothing helpful here about running team meetings. I suspect standing team meetings are more an artifact of a team of consultants not otherwise having a lot of exposure to each other; that exposure happens in the context of the project for a project-team.)
 
 The breadth of content here, running from "hey I'm a new hire as an engineer" up to "OK, so, uh, I'm a CTO, or maybe a VP Eng, what does that even MEAN?!" has led to a lot of the details not sticking in my mind. So I'll have to make another tour here to mop up and distill the relevant bits.
+#### A Manager's Responsibilities
 Off the top of my head though are these responsibilities:
 
 - Identifying problems before they happen
