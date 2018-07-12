@@ -1,6 +1,8 @@
 # Management Focus Week
 
-Jeremy W. Sherman, July 2018
+[Jeremy W. Sherman](https://jeremywsherman.com/), July 2018
+
+*These notes are the result of my quarterly professional development week. Many thanks to [**Big Nerd Ranch**](https://www.bignerdranch.com/) for giving me the time, space, and funding for this intensive self-improvement week. If you're looking for a humane and wicked-smart software engineering and training environment, [we're hiring.](https://www.bignerdranch.com/about/careers/) If you'd just like to read more, [we've a blog.](https://www.bignerdranch.com/blog/)*
 
 ## How do you evaluate management performance?
 And more particularly, how do you "steer" what you do towards better rather than worse?
